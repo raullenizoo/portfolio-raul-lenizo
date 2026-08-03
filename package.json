@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Personal portfolio website with a Groq-powered AI chatbot using Vercel Serverless Functions.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
